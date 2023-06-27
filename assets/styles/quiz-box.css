@@ -1,0 +1,26 @@
+.quiz-box {
+
+}
+
+.quiz-box > section > article {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 100;
+    color: #fff;
+}
+
+.quiz-box__button {
+    margin: 30px;
+    padding: 15px 80px;
+    border: none;
+    background-color: gold;
+    font-weight: 400;
+    font-size: 17px;
+    transition: all 0.4s ease;
+    border-radius: 50px;
+}
+
+.quiz-box__button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
